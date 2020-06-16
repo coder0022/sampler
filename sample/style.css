@@ -1,0 +1,22 @@
+
+.tulip{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.shanu{
+	margin: auto;
+  width: 600px;
+  padding: 10px;
+}
+body{
+	background-image: url(newfolder/beer.jpg);
+	color: white;
+}
